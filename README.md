@@ -7,7 +7,9 @@ I also added [this](https://maierfelix.github.io/pokemon-emerald-rom-hacking/sta
 
 Screenshots:
 <img src="https://i.imgur.com/pYI9ipl.gif" width="50%">
+
 <img src="https://i.imgur.com/isgIRLD.gif" width="50%">
+
 <img src="https://i.imgur.com/HmvBTAV.png" width="50%">
 
 The following things are supported:
