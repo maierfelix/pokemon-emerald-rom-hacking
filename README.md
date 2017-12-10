@@ -10,6 +10,8 @@ Screenshots:
 
 <img src="https://i.imgur.com/isgIRLD.gif" width="50%">
 
+<img src="https://i.imgur.com/Eqz4eRp.gif" width="50%">
+
 <img src="https://i.imgur.com/HmvBTAV.png" width="50%">
 
 The following things are supported:
